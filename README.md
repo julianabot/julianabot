@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **ReactJS, React Native, and PowerBi**
 
-- 📫 How to reach me **julianarolluqui@gmail.com**
+- 📫 How to reach me: **julianarolluqui@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
