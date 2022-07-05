@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juliana</h1>
-<h3 align="center">A enthusiastic and persistent developer from the Philippines</h3>
+<h3 align="center">An enthusiastic and persistent developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **2 Passion Projects**
 
