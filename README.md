@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **2 Passion Projects**
 
-- 🌱 I’m currently learning **ReactJS, React Native, and PowerBi**
+- 🌱 I’m currently learning **ReactJS, C#, and PowerBi**
 
 - 📫 How to reach me: **julianarolluqui@gmail.com**
 
